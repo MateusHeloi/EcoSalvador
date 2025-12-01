@@ -1,0 +1,7 @@
+{
+  "name": "EcoSalvador Alerta",
+  "description": "Um chatbot inteligente para denúncias climáticas e ambientais em Salvador, utilizando Gemini AI para análise e geolocalização.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
